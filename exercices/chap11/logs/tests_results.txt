@@ -1,0 +1,68 @@
+test_crit (__main__.TestCharacter) ... ERROR
+test_init (__main__.TestCharacter) ... ERROR
+test_name (__main__.TestCharacter) ... ERROR
+test_weapon (__main__.TestCharacter) ... ERROR
+test_init (__main__.TestWeapon) ... ERROR
+test_name (__main__.TestWeapon) ... ERROR
+test_unarmed (__main__.TestWeapon) ... ERROR
+
+======================================================================
+ERROR: test_crit (__main__.TestCharacter)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:/Users/Mathi/Documents/GitHub/c04-ch11-exercices-mathildebrosseau/test_exercice.py", line 38, in setUp
+    self.hp_only =  Character("hp_only",  69,  1,  1,  1)
+TypeError: __init__() missing 2 required positional arguments: 'weapon' and 'hp'
+
+======================================================================
+ERROR: test_init (__main__.TestCharacter)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:/Users/Mathi/Documents/GitHub/c04-ch11-exercices-mathildebrosseau/test_exercice.py", line 38, in setUp
+    self.hp_only =  Character("hp_only",  69,  1,  1,  1)
+TypeError: __init__() missing 2 required positional arguments: 'weapon' and 'hp'
+
+======================================================================
+ERROR: test_name (__main__.TestCharacter)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:/Users/Mathi/Documents/GitHub/c04-ch11-exercices-mathildebrosseau/test_exercice.py", line 38, in setUp
+    self.hp_only =  Character("hp_only",  69,  1,  1,  1)
+TypeError: __init__() missing 2 required positional arguments: 'weapon' and 'hp'
+
+======================================================================
+ERROR: test_weapon (__main__.TestCharacter)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:/Users/Mathi/Documents/GitHub/c04-ch11-exercices-mathildebrosseau/test_exercice.py", line 38, in setUp
+    self.hp_only =  Character("hp_only",  69,  1,  1,  1)
+TypeError: __init__() missing 2 required positional arguments: 'weapon' and 'hp'
+
+======================================================================
+ERROR: test_init (__main__.TestWeapon)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:/Users/Mathi/Documents/GitHub/c04-ch11-exercices-mathildebrosseau/test_exercice.py", line 19, in setUp
+    self.w4 = Weapon.make_unarmed()
+TypeError: make_unarmed() missing 1 required positional argument: 'name'
+
+======================================================================
+ERROR: test_name (__main__.TestWeapon)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:/Users/Mathi/Documents/GitHub/c04-ch11-exercices-mathildebrosseau/test_exercice.py", line 19, in setUp
+    self.w4 = Weapon.make_unarmed()
+TypeError: make_unarmed() missing 1 required positional argument: 'name'
+
+======================================================================
+ERROR: test_unarmed (__main__.TestWeapon)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:/Users/Mathi/Documents/GitHub/c04-ch11-exercices-mathildebrosseau/test_exercice.py", line 19, in setUp
+    self.w4 = Weapon.make_unarmed()
+TypeError: make_unarmed() missing 1 required positional argument: 'name'
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.003s
+
+FAILED (errors=7)

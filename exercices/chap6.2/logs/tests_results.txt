@@ -1,0 +1,9 @@
+test_color_name_to_hex (__main__.TestExercice) ... ok
+test_compute_mse (__main__.TestExercice) ... ok
+test_create_list (__main__.TestExercice) ... ok
+test_list_to_dict (__main__.TestExercice) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.002s
+
+OK

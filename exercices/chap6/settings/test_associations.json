@@ -1,0 +1,22 @@
+{
+  "test_order": {
+    "name": "Ordre",
+    "points": 1
+  },
+  "test_anagram": {
+    "name": "Anagrammes",
+    "points": 1
+  },
+  "test_doubles": {
+    "name": "Doublons",
+    "points": 1
+  },
+  "test_grades": {
+    "name": "Notes",
+    "points": 1
+  },
+  "test_frequence": {
+    "name": "Frequence",
+    "points": 1
+  }
+}

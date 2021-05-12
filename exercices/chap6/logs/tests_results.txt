@@ -1,0 +1,10 @@
+test_anagram (__main__.TestExercice) ... ok
+test_doubles (__main__.TestExercice) ... ok
+test_frequence (__main__.TestExercice) ... ok
+test_grades (__main__.TestExercice) ... ok
+test_order (__main__.TestExercice) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+OK

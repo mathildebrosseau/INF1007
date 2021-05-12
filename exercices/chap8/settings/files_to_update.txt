@@ -1,0 +1,9 @@
+.github/workflows/exercise.yml
+.gitpod.yml
+.theia/settings.json
+data/sample_countries.txt
+instructions.md
+README.md
+settings/files_to_update.txt
+settings/test_associations.json
+settings/variables.txt

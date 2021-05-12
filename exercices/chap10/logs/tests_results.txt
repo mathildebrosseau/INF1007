@@ -1,0 +1,8 @@
+test_closest (__main__.TestExercice) ... ok
+test_coordinates (__main__.TestExercice) ... ok
+test_linear_values (__main__.TestExercice) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK

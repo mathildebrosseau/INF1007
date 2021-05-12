@@ -1,0 +1,14 @@
+{
+    "test_linear_values": {
+      "name": "64 valeurs",
+      "points": 1
+    },
+    "test_coordinates": {
+      "name": "Coordonnées",
+      "points": 1
+    },
+    "test_closest": {
+      "name": "Index",
+      "points": 1
+    }
+  }

@@ -1,0 +1,22 @@
+{
+  "test_absolute": {
+    "name": "Conversion en valeur absolue",
+    "points": 1
+  },
+  "test_prefixes": {
+    "name": "Utilisation des préfixes",
+    "points": 1
+  },
+  "test_summation": {
+    "name": "Calcul de la sommation",
+    "points": 1
+  },
+  "test_factorial": {
+    "name": "Calcul de la factorielle",
+    "points": 1
+  },
+  "test_verify_ages": {
+    "name": "Vérification de l'acceptance des groupes d'âges",
+    "points": 1
+  }
+}
