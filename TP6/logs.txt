@@ -1,0 +1,26 @@
+----- TESTS PARTIE 1 -----
+TESTS COMPOSANTES:
+1 pt     - Création de composante: PASS
+1.33 pts - Création de moteur:     PASS
+1.33 pts - Création de chassis:    PASS
+1.33 pts - Création de roue:       PASS
+SCORE PARTIE 1: 5.0 / 5.0
+
+
+True
+----- TESTS PARTIE 2 -----
+TESTS VEHICULES:
+2 pts    - Création de vehicule:   PASS
+1 pt     - Création de moto:       PASS
+1 pt     - Création d'auto:        PASS
+1 pt     - Création de camion:     PASS
+SCORE PARTIE 2: 5.0 / 5.0
+
+
+----- TESTS PARTIE 3 -----
+TEST VEHICULE CUSTOM
+2 pts - Création d'un nouveau vehicule:  PASS
+SCORE PARTIE 3: 2.0 / 2.0
+
+
+TOTAL : 12.0 / 12.0
