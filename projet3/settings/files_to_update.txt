@@ -1,0 +1,10 @@
+.github/workflows/assignment_tests.yml
+.github/workflows/pylint.yml
+README.md
+settings/files_to_update.txt
+settings/variables.txt
+data/data.csv
+data/eq_V_inter.gif
+data/eq_V_stockes.gif
+data/eq_cd_inter.gif
+data/eq_cd_stockes.gif
